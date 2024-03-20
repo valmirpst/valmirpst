@@ -1,3 +1,3 @@
 - Aluno do Curso Técnico Integrado em Informática para a Internet de Nível Médio
 - UTFPR, Campus Campo Mourão;
-- Estudande de JavaScript, ReactJS, Node e outras tecnologias front e back-end.
+- Estudante de JavaScript, ReactJS, Node e outras tecnologias front e back-end.
