@@ -3,14 +3,18 @@
 <h4 align="center">UTFPR Campus Campo Mourão</h4>
 
 <br>
-<li>📄 Atualmente estou estudando **JavaScript, ReactJS, Node e outras tecnologias front e back-end**</li>
+<li>📄 Atualmente estou estudando <strong>JavaScript, ReactJS, Node e outras tecnologias front e back-end</strong></li>
 <li>⚡ Estou desenvolvendo um site portfolio que será postado em breve</li>
-<li>📫 Entre em contato comigo através do email <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrgDMmxvwKRHNBWCscLfnQZGNZXTnDRcMdzsHXgKCrSGTSKsBkCtSvZJHCDNccXQzKgrnV">valmirpaivacpm@gmail.com</a></li>
+<li>📫 Entre em contato comigo através do email <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrgDMmxvwKRHNBWCscLfnQZGNZXTnDRcMdzsHXgKCrSGTSKsBkCtSvZJHCDNccXQzKgrnV" target="_blank" rel="noreferrer">valmirpaivacpm@gmail.com</a></li>
 
 <h3 align="left">Redes Sociais/Profissionais</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/valmirpaivastachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/valmirpaivastachin" height="30" width="40" /></a>
-<a href="https://instagram.com/@valmirpst_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@valmirpst_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/valmirpaivastachin" target="_blank" rel="noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/valmirpaivastachin" height="30" width="40" />
+</a>
+<a href="https://instagram.com/valmirpst_" target="_blank" rel="noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@valmirpst_" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Linguagens de Programação e Tecnologias</h3>
