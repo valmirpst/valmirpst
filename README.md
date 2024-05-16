@@ -4,8 +4,8 @@
 
 <br>
 <li>📄 Atualmente estou estudando <strong>JavaScript, ReactJS, Node e outras tecnologias front e back-end</strong></li>
-<li>⚡ Estou desenvolvendo um site portfolio que será postado em breve</li>
-<li>📫 Entre em contato comigo através do email <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrgDMmxvwKRHNBWCscLfnQZGNZXTnDRcMdzsHXgKCrSGTSKsBkCtSvZJHCDNccXQzKgrnV" target="_blank" rel="noreferrer">valmirpaivacpm@gmail.com</a></li>
+<li>⚡ Meu site Portfolio: <a href="https://valmirpst.github.io/portfolio/">valmirpst.github.io/portfolio</a></li>
+<li>🇺🇲 Possuo conhecimento de Nível Avançado em Inglês</li>
 
 <h3 align="left">Redes Sociais/Profissionais</h3>
 <p align="left">
