@@ -3,52 +3,28 @@
 <h4 align="center">UTFPR Campus Campo Mourão</h4>
 
 <br>
-<li>📄 Atualmente estou estudando <strong>JavaScript, ReactJS, Node e outras tecnologias front e back-end</strong></li>
-<li>⚡ Meu site Portfolio: <a href="https://valmirpst.github.io/portfolio/">valmirpst.github.io/portfolio</a></li>
-<li>🇺🇲 Possuo conhecimento de Nível Avançado em Inglês</li>
-
-<h3 align="left">Redes Sociais/Profissionais</h3>
-<p align="left">
-<a href="https://linkedin.com/in/valmirpaivastachin" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/valmirpaivastachin" height="30" width="40" />
-</a>
-<a href="https://instagram.com/valmirpst_" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@valmirpst_" height="30" width="40" />
-</a>
-</p>
+<li>Atualmente estou estudando <strong>JavaScript, ReactJS, Node e outras tecnologias front e back-end</strong></li>
+<li>Meu site Portfolio: <a href="https://valmirpst.github.io/portfolio/">valmirpst.github.io/portfolio</a></li>
+<li>Possuo conhecimento de Nível Avançado em Inglês</li>
 
 <h3 align="left">Linguagens de Programação e Tecnologias</h3>
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
+<h2 align="left">
 
-<hr>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,postgresql,figma,git,linux)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valmirpst&show_icons=true&locale=en&layout=compact" alt="valmirpst" /></p>
+</h2>
+
+<h3 align="left">Redes Sociais / Profissionais</h3>
+<h2 style="display: flex; gap: 4px;" align="left">
+  <a height="48px" href="https://linkedin.com/in/valmirpaivastachin" target="_blank" rel="noreferrer">
+    <img height="48px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/valmirpaivastachin" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/valmirpst_" target="_blank" rel="noreferrer">
+    <img height="48px" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@valmirpst_" height="30" width="40" />
+  </a>
+
+  <br>
+</h2>
+
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=valmirpst&show_icons=true&locale=en&layout=compact" alt="valmirpst" /></div>
