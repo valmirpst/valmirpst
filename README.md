@@ -4,14 +4,14 @@
 
 <br>
 <li>Atualmente estou estudando <strong>JavaScript, ReactJS, Node e outras tecnologias front e back-end</strong></li>
-<li>Meu site Portfolio: <a href="https://valmirpst.github.io/portfolio/">valmirpst.github.io/portfolio</a></li>
+<li>Meu site Portfolio: <a href="https://valmirpst.github.io/portfolio/" target="_blank" rel="noreferrer">valmirpst.github.io/portfolio</a></li>
 <li>Possuo conhecimento de Nível Avançado em Inglês</li>
 
 <h3 align="left">Linguagens de Programação e Tecnologias</h3>
 
 <h2 align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,postgresql,figma,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,python,postgresql,figma,git,linux)](https://skillicons.dev)
 
 </h2>
 
@@ -27,4 +27,4 @@
   <br>
 </h2>
 
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=valmirpst&show_icons=true&locale=en&layout=compact" alt="valmirpst" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=valmirpst&show_icons=true&locale=pt-br&layout=compact&theme=dark" alt="valmirpst" /></div>
