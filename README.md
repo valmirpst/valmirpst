@@ -11,7 +11,7 @@
 
 <h2 align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,nextjs,python,postgresql,figma,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,nextjs,python,postgresql,figma,git,linux)](https://skillicons.dev)
 
 </h2>
 
