@@ -2,7 +2,6 @@
 
 # 📝 About Me
 <h3 align="justify">
- 
 IT Technician (UTFPR) and Junior Software Developer at <a href="https://unimake.com.br/" target="_blank">Unimake Software</a>. I combine my technical background with advanced English to build robust software solutions. I'm constantly exploring new technologies to drive professional growth and deliver high-quality code, contributing to impactful projects.
 
 <br />
