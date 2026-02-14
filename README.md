@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:F5A623,50:F07A1A,100:E8620A&text=Valmir%20Paiva%20Stachin&fontSize=56&fontWeight=800&section=header&reversal=false&fontColor=FFFFFF&desc=Junior%20Software%20Developer%20%C2%B7%20IT%20Technician&descAlignY=67)
+![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1a1a1a,50:111111,100:0a0a0a&text=Valmir%20Paiva%20Stachin&fontSize=48&fontWeight=800&section=header&reversal=false&fontColor=FFFFFF&desc=Junior%20Software%20Developer%20%C2%B7%20IT%20Technician&descAlignY=67)
 
 </div>
 
@@ -36,5 +36,5 @@ IT Technician from **UTFPR** and Junior Software Developer at [**Unimake Softwar
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F5A623,F07A1A,E8620A&section=footer&reversal=false" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a1a1a,50:111111,100:0a0a0a&section=footer&reversal=false" />
 </div>
