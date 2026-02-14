@@ -12,7 +12,7 @@ IT Technician from **UTFPR** and Junior Software Developer at [**Unimake Softwar
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,prisma,cs,python,git,vscode,visualstudio,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,mui,nodejs,docker,postgres,prisma,cs,python,git,vscode,visualstudio,linux&theme=dark" />
   </a>
 </div>
 
