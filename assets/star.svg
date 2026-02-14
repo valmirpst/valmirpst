@@ -1,0 +1,17 @@
+<svg width="36" height="36" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+  <text
+    x="20"
+    y="31"
+    text-anchor="middle"
+    font-size="32"
+    fill="#F5A623"
+  >✦<animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 20 20"
+      to="360 20 20"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+  </text>
+</svg>
