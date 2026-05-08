@@ -29,7 +29,7 @@ IT Technician from **UTFPR** and Junior Software Developer at [**Unimake Softwar
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valmirpaivastachin/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F3901F?style=for-the-badge&logo=firefox&logoColor=white)](https://valmirpst.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F3901F?style=for-the-badge&logo=firefox&logoColor=white)](https://valmirpst.github.io)
 
 </div>
 
